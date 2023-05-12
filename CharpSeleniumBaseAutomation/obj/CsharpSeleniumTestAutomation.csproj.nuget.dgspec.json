@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\myProjects\\CharpSeleniumBaseAutomation\\CharpSeleniumBaseAutomation\\CharpSeleniumBaseAutomation\\CsharpSeleniumTestAutomation.csproj": {}
+    "D:\\myProjects\\nildo\\CsharpSeleniumAutomation\\CharpSeleniumBaseAutomation\\CsharpSeleniumTestAutomation.csproj": {}
   },
   "projects": {
-    "D:\\myProjects\\CharpSeleniumBaseAutomation\\CharpSeleniumBaseAutomation\\CharpSeleniumBaseAutomation\\CsharpSeleniumTestAutomation.csproj": {
+    "D:\\myProjects\\nildo\\CsharpSeleniumAutomation\\CharpSeleniumBaseAutomation\\CsharpSeleniumTestAutomation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\myProjects\\CharpSeleniumBaseAutomation\\CharpSeleniumBaseAutomation\\CharpSeleniumBaseAutomation\\CsharpSeleniumTestAutomation.csproj",
+        "projectUniqueName": "D:\\myProjects\\nildo\\CsharpSeleniumAutomation\\CharpSeleniumBaseAutomation\\CsharpSeleniumTestAutomation.csproj",
         "projectName": "CsharpSeleniumTestAutomation",
-        "projectPath": "D:\\myProjects\\CharpSeleniumBaseAutomation\\CharpSeleniumBaseAutomation\\CharpSeleniumBaseAutomation\\CsharpSeleniumTestAutomation.csproj",
+        "projectPath": "D:\\myProjects\\nildo\\CsharpSeleniumAutomation\\CharpSeleniumBaseAutomation\\CsharpSeleniumTestAutomation.csproj",
         "packagesPath": "C:\\Users\\evera\\.nuget\\packages\\",
-        "outputPath": "D:\\myProjects\\CharpSeleniumBaseAutomation\\CharpSeleniumBaseAutomation\\CharpSeleniumBaseAutomation\\obj\\",
+        "outputPath": "D:\\myProjects\\nildo\\CsharpSeleniumAutomation\\CharpSeleniumBaseAutomation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\evera\\AppData\\Roaming\\NuGet\\NuGet.Config",
